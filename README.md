@@ -11,7 +11,7 @@ In this project, we will build a machine learning model to analyze thousands of 
 - __Task 2:__ Import Libraries and Datasets
 - __Task 3:__ Perform Data Visualization
 - __Task 4:__ Perform Data Exploration
-- __Task 5:__ Plot the wordcloud
+- __Task 5:__ Plot the WordCloud
 - __Task 6:__ Text Data Cleaning 101
 - __Task 7:__ Perform Count Vectorization (Tokenization)
 - __Task 8:__ Create a Complete Text Processing Pipeline
