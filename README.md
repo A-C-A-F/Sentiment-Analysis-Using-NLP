@@ -2,7 +2,7 @@
 Amazon Echo Reviews Sentiment Analysis Using NLP
 
 
-In this project, we will build a machine learning model to analyze thousands of reviews to predict customer sentiment. Artificial Intelligence and Machine Learning based sentiment analysis is crucial for companies to automatically predict whether their customers are happy or not. This project is important and directly applicable to any company that has online presence. These algorithms could be used to automatically detect customer sentiment from their reviews.
+In this project, we will build a machine learning model to analyze thousands of reviews to predict customer sentiment. Artificial Intelligence and Machine Learning-based sentiment analysis is crucial for companies to automatically predict whether their customers are happy or not. This project is important and directly applicable to any company that has online presence. These algorithms could be used to automatically detect customer sentiment from their reviews.
 
  __Data Source:__ *https://www.kaggle.com/datasets/haitaox503/amazonreviewscsv?select=amazon_reviews.csv*
 
